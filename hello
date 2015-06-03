@@ -1,3 +1,6 @@
-after file add
+status: after file add
+
+questions:
 change filename
-multible files (project)
+git repository in other directory (backup)
+reset whole project to certain point
